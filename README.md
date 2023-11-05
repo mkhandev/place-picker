@@ -4,5 +4,6 @@ npm install
 # Run ths app
 npm run dev
 
-# Run backed api
+# Run backend api
+cd backend
 node app.js
