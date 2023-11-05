@@ -5,5 +5,5 @@ npm install
 npm run dev
 
 # Run backend api
-cd backend
+cd backend <br />
 node app.js
