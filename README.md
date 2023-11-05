@@ -1,4 +1,4 @@
-# install app
+# Install app
 npm install
 
 # Run ths app
